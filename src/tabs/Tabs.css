@@ -1,0 +1,32 @@
+
+
+.nav-link{
+
+
+  border: thin solid black !important ;
+    border-radius: 3px !important ;
+
+
+
+}
+
+.nav-tabs {
+    border-bottom: none;
+    height: 50px;
+}
+
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: white;
+    background-color: #2196F3;
+    border-color: none;
+}
+.mainmetric{
+
+text-align: left;
+padding: 20px;
+
+
+}
+
+

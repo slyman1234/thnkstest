@@ -1,0 +1,351 @@
+.sidecircle{    
+
+ list-style: circle;
+
+color: green;
+  
+}
+
+#headr{
+
+
+
+
+    padding: 30px;
+}
+.ProgressBar{
+
+
+margin-top: 20px;
+
+
+
+width: 70%;
+}
+
+
+#search{
+
+text-align: left;
+
+
+}
+.soil{
+
+
+    margin-top: 60px;
+}
+
+
+.searchh3{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    
+    color: #4A4A4A;
+
+}
+
+.searchh5l{
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    
+    color: #4A4A4A;
+
+
+
+}
+
+
+
+.searchh5p{
+
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    
+    color: #A0B0B9;
+    
+
+
+
+
+
+
+
+}
+
+
+.searchh5lp{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #4A4A4A;
+    
+
+
+}
+
+
+
+.searchhpp{
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #A0B0B9;
+
+}
+
+
+
+.mtraffic{
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+    
+    
+    color: #4A4A4A;
+
+}
+
+
+
+.mtrafficg{
+
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #A0B0B9;
+
+
+
+
+}
+
+
+.mobilehelp{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height, or 142% */
+    
+    
+    color: #4A4A4A;
+    
+  
+
+}
+
+
+
+.mobilehelps{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height, or 142% */
+    
+    
+    color: #2196F3;
+    
+    
+
+}
+
+
+
+.clicks123{
+
+    
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #FF6A67;
+}
+
+.clickslast{
+
+    
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+
+color: #4A4A4A;
+
+}
+
+
+.clicksprevious{
+
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 140% */
+    
+    
+    color: #4A4A4A;
+    
+    }
+    
+
+
+.lastt{
+
+
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #4A4A4A;
+    
+
+
+}
+
+
+
+
+
+.lasth{
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #A0B0B9;
+    
+
+}
+
+
+
+
+.ctrh{
+
+
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #FF6A67;
+}
+
+
+
+.conver{
+
+
+
+    
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #A0B0B9;
+
+}
+
+
+
+
+.ctrhu{
+
+
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #000000;
+}
+
+
+.ffrs{
+text-align: center;
+
+align-items: center;
+align-content: center;
+
+}
+
+
+.img{  align-self: center; margin-left: 20px; margin-top: 10px;}
